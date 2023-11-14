@@ -20,6 +20,6 @@ I'm on a journey to become a Backend Software Engineer and am currently pursuing
 ## 🤝 Let's Connect!
 - LinkedIn: [Connect with me](https://www.linkedin.com/in/daniel-enwefah/)
 - Twitter: [Follow me on Twitter](https://twitter.com/AyDanzee)
-- Email: aydanzee@gmail.com
+- Email: daniel@danzee.tech, aydanzee@gmail.com
 
 Feel free to explore my repositories, and let's collaborate on some cool projects! 🚀
