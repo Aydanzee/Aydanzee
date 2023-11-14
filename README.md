@@ -5,7 +5,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@AyDanzee-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/AyDanzee)](https://twitter.com/AyDanzee)
 
 ## 🚀 About Me
-I'm a motivated IT Professional with a strong background in troubleshooting, networking, and system administration. A graduate in Computer Science and certified in IT support, project management, and cybersecurity, I offer comprehensive IT consulting services with expertise in home networking, computer repair, and technical support.
+I'm a motivated IT Professional with a strong background in troubleshooting, networking, and system administration. A graduate in Computer Science and certified in IT support, project management, and Foundations of Cybersecurity, I offer comprehensive IT consulting services with expertise in home networking, computer repair, and technical support.
 
 ## 🌐 Tech Stack
 - Troubleshooting 🔍
