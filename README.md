@@ -40,5 +40,5 @@ I care about clear architecture, safe deployments, useful observability, repeata
 
 * [Axiom Labs Limited](https://axiomdlabs.com)
 * [TaxCalc.ng](https://taxcalc.ng)
-* [hello@axiomdlabs.com](mailto:hello@axiomdlabs.com)
+* [axiomd@axiomdlabs.com](mailto:axiomd@axiomdlabs.com)
 
